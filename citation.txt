@@ -1,0 +1,7 @@
+@inproceedings{REPO104,
+    author = "Kim, Bumsoo and Lee, Junhyun and Kang, Jaewoo and Kim, Eun-Sol and Kim, Hyunwoo J.",
+    booktitle = "CVPR",
+    publisher = "IEEE",
+    title = "{HOTR: End-to-End Human-Object Interaction Detection with Transformers}",
+    year = "2021"
+}
